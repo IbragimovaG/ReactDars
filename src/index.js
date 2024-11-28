@@ -34,6 +34,7 @@ removeCount=()=>{
 
                 </div>
             </div>
+            <p>lorem</p>
         </div>
     }
 }
